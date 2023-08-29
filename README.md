@@ -1,2 +1,2 @@
 # Key-React-Concepts
-Contains the major concepts of react
+Contains the major concepts of react.
